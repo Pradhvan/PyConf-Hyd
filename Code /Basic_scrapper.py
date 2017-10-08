@@ -12,4 +12,4 @@ response = requests.get("https://hasjob.co/")
 
 
 # Getting the extracted content
-print response.content
+print (response.content)
